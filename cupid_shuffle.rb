@@ -1,6 +1,6 @@
 def cupid_shuffle
   puts "Do you want to do the cupid shuffle?"
-  input == gets.chomp
+  input = gets.chomp
   if input == "y"
   
 
