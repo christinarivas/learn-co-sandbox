@@ -28,3 +28,8 @@ while count < 24
 puts "now kick"
 count += 1 
 end
+
+while count < 26
+puts "now walk it by your self"
+count += 1 
+end
