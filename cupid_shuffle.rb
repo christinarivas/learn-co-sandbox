@@ -2,6 +2,7 @@ def cupid_shuffle
   puts "Do you want to do the cupid shuffle?"
   input == gets.chomp
   if input == "y"
+  
 
 count = 0 
   until count == 4
@@ -32,4 +33,5 @@ end
 while count < 26
 puts "now walk it by your self"
 count += 1 
+end
 end
